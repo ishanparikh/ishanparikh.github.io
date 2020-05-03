@@ -198,3 +198,7 @@ a:focus,
 a:active {
     color: #ff6859;
 }
+
+.tab {
+    padding-left: 4px;
+}
